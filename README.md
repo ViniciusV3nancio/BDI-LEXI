@@ -1,4 +1,4 @@
-Lista de Exercícios da Matéria de Banco de Dados I ministrada pelo Professor Pedro Galvão na Fatec de São Roque
+Lista de Exercícios I da Matéria de Banco de Dados I ministrada pelo Professor Pedro Galvão
 
 Tecnologia Utilizada: Linguagem SQL
 
