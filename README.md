@@ -14,6 +14,10 @@ Elaborando um Modelo Entidade Relacionamento (MER)
 
 ![MER Locadora](https://github.com/user-attachments/assets/359b9865-01d2-4f63-ae82-88cd3f00d3ba)
 
+Elaborando um Diagrama Entidade Relacionamento (DER)
+
+![Banco de Dados I - Lista de Exercícios I - DER](https://github.com/user-attachments/assets/e4684e1b-8599-4bd6-920e-a79d44d41116)
+
 Parte II - Criação do do Repositório
 
 ![image](https://github.com/user-attachments/assets/ca9aa944-8522-410b-9592-317ad8321e63)
